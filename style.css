@@ -28,10 +28,26 @@ img.logo{
     width: 30%;
     height: auto;
 }
-input{
-    width:60%;
-    height: 50px;
+.container{
+    display: flex;
+    border: 1px solid rgb(216, 175, 175);
+    width: 50%;
+    height: 35px;
+    margin: 5px 25%;
     border-radius: 30px;
-    border: 1px solid rgb(204, 167, 167);
+
+}
+i{
+    vertical-align: center;
+    width:auto;
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+.sch{
+    border: none;
+    width:100%;
+    border-radius: 30px;
+
 }
 /*Body End*/
